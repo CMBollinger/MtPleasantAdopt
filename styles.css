@@ -1,0 +1,9 @@
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+.wrap {
+    height: 700px;
+    overflow: hidden;
+}
